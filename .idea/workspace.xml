@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c2133f6-6d92-47c9-b96b-5fc926152bea" name="Changes" comment="create columns, image, and description">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="2c2133f6-6d92-47c9-b96b-5fc926152bea" name="Changes" comment="add description, image and links" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,15 +34,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/justi/PycharmProjects/Portfolio/images",
+    "last_opened_file_path": "C:/Users/justi/PycharmProjects/Portfolio/Projects",
     "settings.editor.selected.configurable": "preferences.fileTypes"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\justi\PycharmProjects\Portfolio\Projects" />
       <recent name="C:\Users\justi\PycharmProjects\Portfolio\images" />
       <recent name="C:\Users\justi\PycharmProjects\Portfolio" />
     </key>
@@ -90,7 +89,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705216525533</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day22: use pandas and add columns to the app">
+      <option name="closed" value="true" />
+      <created>1705223463145</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705223463145</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add description, image and links">
+      <option name="closed" value="true" />
+      <created>1705224765209</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705224765209</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -100,6 +115,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="add data source and image files" />
     <MESSAGE value="create columns, image, and description" />
-    <option name="LAST_COMMIT_MESSAGE" value="create columns, image, and description" />
+    <MESSAGE value="day22: use pandas and add columns to the app" />
+    <MESSAGE value="add description, image and links" />
+    <option name="LAST_COMMIT_MESSAGE" value="add description, image and links" />
   </component>
 </project>
