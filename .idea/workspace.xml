@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c2133f6-6d92-47c9-b96b-5fc926152bea" name="Changes" comment="add another page contact_us.py">
-      <change afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
+    <list default="true" id="2c2133f6-6d92-47c9-b96b-5fc926152bea" name="Changes" comment="send email">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/Contact_Us.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Contact_Us.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705233329831</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="send email">
+      <option name="closed" value="true" />
+      <created>1705320417996</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705320417996</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -131,6 +139,7 @@
     <MESSAGE value="day22: use pandas and add columns to the app" />
     <MESSAGE value="add description, image and links" />
     <MESSAGE value="add another page contact_us.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="add another page contact_us.py" />
+    <MESSAGE value="send email" />
+    <option name="LAST_COMMIT_MESSAGE" value="send email" />
   </component>
 </project>
