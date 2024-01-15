@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c2133f6-6d92-47c9-b96b-5fc926152bea" name="Changes" comment="send email">
+    <list default="true" id="2c2133f6-6d92-47c9-b96b-5fc926152bea" name="Changes" comment="connect send_email to contact form">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Contact_Us.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Contact_Us.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705320417996</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="connect send_email to contact form">
+      <option name="closed" value="true" />
+      <created>1705323006241</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705323006241</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -140,6 +147,7 @@
     <MESSAGE value="add description, image and links" />
     <MESSAGE value="add another page contact_us.py" />
     <MESSAGE value="send email" />
-    <option name="LAST_COMMIT_MESSAGE" value="send email" />
+    <MESSAGE value="connect send_email to contact form" />
+    <option name="LAST_COMMIT_MESSAGE" value="connect send_email to contact form" />
   </component>
 </project>
