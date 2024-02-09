@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c2133f6-6d92-47c9-b96b-5fc926152bea" name="Changes" comment="connect send_email to contact form">
+    <list default="true" id="2c2133f6-6d92-47c9-b96b-5fc926152bea" name="Changes" comment="secure password">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +22,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -133,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705323006241</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="secure password">
+      <option name="closed" value="true" />
+      <created>1705326992142</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705326992142</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -148,6 +170,7 @@
     <MESSAGE value="add another page contact_us.py" />
     <MESSAGE value="send email" />
     <MESSAGE value="connect send_email to contact form" />
-    <option name="LAST_COMMIT_MESSAGE" value="connect send_email to contact form" />
+    <MESSAGE value="secure password" />
+    <option name="LAST_COMMIT_MESSAGE" value="secure password" />
   </component>
 </project>
